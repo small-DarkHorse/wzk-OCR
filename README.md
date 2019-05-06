@@ -13,5 +13,5 @@ Step 2. 添加依赖
 在需要使用的module中添加依赖
 
 dependencies {
-	compile 'com.github.small-DarkHorse.WangZK-project:PictureSelector:1.0'
+	implementation 'com.github.small-DarkHorse:WangZK-project:v1.0.0'
 }
