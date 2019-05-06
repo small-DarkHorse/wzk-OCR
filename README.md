@@ -9,6 +9,8 @@ allprojects {
         maven { url "https://jitpack.io" }
     }
 }
+
+
 Step 2. 添加依赖
 在需要使用的module中添加依赖
 
